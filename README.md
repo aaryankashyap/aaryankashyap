@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aaryan Kashyap</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryankashyap&label=Profile%20views&color=0e75b6&style=flat" alt="aaryankashyap" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaryankashyap" alt="aaryankashyap" /></a> </p>
+
 <img align="right"  src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761167523e16e4397a55994677637347a510bab05d08&rid=giphy.gif&ct=g" alt="Coading" width="300">
 
 - 🔭 I’m currently working on [Railway Website](https://aaryankashyap.github.io/Railway.github.io/)
